@@ -1,4 +1,4 @@
-# countdown.html
+# countdown
 
 Simple countdown timer.
 
